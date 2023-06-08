@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="INFANTIL",CARTOON NETWORK
 http://cdnrede.com/live/ardenghix/991144858/5171.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="GLOOB" tvg-logo="" group-title="INFANTIL",GLOOB
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB" tvg-logo="https://i.postimg.cc/x1fdqJ3q/gloobinho.png" group-title="INFANTIL",GLOOB
 http://cdnrede.com/live/ardenghix/991144858/5163.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO" tvg-logo="" group-title="INFANTIL",GLOOBINHO
