@@ -1,16 +1,16 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.postimg.cc/Y0YL8x2Q/cartoon-network.png" group-title="INFANTIL",CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/Y0YL8x2Q/cartoon-network.png" group-title="Infantil",Cartoon Network
 http://cdnrede.com/live/ardenghix/991144858/5171.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="GLOOB" tvg-logo="https://i.postimg.cc/7ZQh37HX/gloob.png" group-title="INFANTIL",GLOOB
+#EXTINF:-1 tvg-id="" tvg-name="Gloob" tvg-logo="https://i.postimg.cc/7ZQh37HX/gloob.png" group-title="Infantil",Gloob
 http://cdnrede.com/live/ardenghix/991144858/5163.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO" tvg-logo="https://i.postimg.cc/MK87Ck8V/gloobinho.png" group-title="INFANTIL",GLOOBINHO
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho" tvg-logo="https://i.postimg.cc/MK87Ck8V/gloobinho.png" group-title="Infantil",Gloobinho
 http://cdnrede.com/live/ardenghix/991144858/5162.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="" group-title="INFANTIL",NICKELODEON
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="Infantil",Nickelodeon
 http://cdnrede.com/live/ardenghix/991144858/5155.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR." tvg-logo="" group-title="INFANTIL",NICK JR.
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="" group-title="Infantil",Nick Jr.
 http://cdnrede.com/live/ardenghix/991144858/5157.m3u8
