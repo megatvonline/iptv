@@ -1,5 +1,8 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbDrH37q/band.png" group-title="Canais Abertos",Band SP
+http://cdnrede.com/live/ardenghix/991144858/4969.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0YL8x2Q/cartoon-network.png" group-title="Infantil",Cartoon Network 
 http://cdnrede.com/live/ardenghix/991144858/5171.m3u8
 
@@ -32,9 +35,6 @@ http://cdnrede.com/live/ardenghix/991144858/5152.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6QTqWhdK/discovery-channel.png" group-title="Documentários",Discovery Channel
 http://cdnrede.com/live/ardenghix/991144858/5001.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPC9qmtq/discovery-science.png" group-title="Documentários",Discovery Science
-http://cdnrede.com/live/ardenghix/991144858/4995.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyKhpBwm/discovery-theater.png" group-title="Documentários",Discovery Theater
 http://cdnrede.com/live/ardenghix/991144858/4993.m3u8
