@@ -21,6 +21,9 @@ http://svdnew.xyz/live/7252672837/817262627/270.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXZ32Xg9/multishow.png" group-title="Músicas & Variedades",Multishow
 http://cdnrede.com/live/ardenghix/991144858/5249.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqSbn7XM/comedy-central.png" group-title="Músicas & Variedades",Comedy Central
+http://cdnrede.com/live/ardenghix/991144858/5269.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0YL8x2Q/cartoon-network.png" group-title="Infantil",Cartoon Network 
 http://cdnrede.com/live/ardenghix/991144858/5171.m3u8
 
