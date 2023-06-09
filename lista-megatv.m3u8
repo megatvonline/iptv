@@ -1,12 +1,12 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8z8B40Nn/rede-globo.png" group-title="Canais Abertos",Globo RJ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpRthZ1Y/rede-globo.png" group-title="Canais Abertos",Globo RJ
 http://svdnew.xyz/live/7252672837/817262627/1358.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8z8B40Nn/rede-globo.png" group-title="Canais Abertos",Globo SP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpRthZ1Y/rede-globo.png" group-title="Canais Abertos",Globo SP
 http://cdnrede.com/live/ardenghix/991144858/5116.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8z8B40Nn/rede-globo.png" group-title="Canais Abertos",Globo Minas
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpRthZ1Y/rede-globo.png" group-title="Canais Abertos",Globo Minas
 http://cdnrede.com/live/ardenghix/991144858/5128.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbDrH37q/band.png" group-title="Canais Abertos",Band SP
