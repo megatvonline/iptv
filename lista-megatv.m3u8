@@ -12,6 +12,12 @@ http://cdnrede.com/live/ardenghix/991144858/5128.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbDrH37q/band.png" group-title="Canais Abertos",Band SP
 http://cdnrede.com/live/ardenghix/991144858/4969.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8kYfzRr/record-tv.png" group-title="Canais Abertos",Record RJ
+http://svdnew.xyz/live/7252672837/817262627/269.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8kYfzRr/record-tv.png" group-title="Canais Abertos",Record SP
+http://svdnew.xyz/live/7252672837/817262627/270.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0YL8x2Q/cartoon-network.png" group-title="Infantil",Cartoon Network 
 http://cdnrede.com/live/ardenghix/991144858/5171.m3u8
 
