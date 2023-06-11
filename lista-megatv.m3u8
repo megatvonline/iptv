@@ -27,6 +27,9 @@ http://cdnrede.com/live/ardenghix/991144858/5269.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp8DKw4x/megapix.png" group-title="Filmes & Séries",Megapix
 http://cdnrede.com/live/ardenghix/991144858/5071.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TY0wBXFP/fx.png" group-title="Filmes & Séries",FX
+http://cdnrede.com/live/ardenghix/991144858/5080.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YC8YRXJm/hbo.png" group-title="Filmes & Séries",HBO
 http://cdnrede.com/live/ardenghix/991144858/5144.m3u8
 
@@ -51,8 +54,8 @@ http://cdnrede.com/live/ardenghix/991144858/5078.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Znq19DtF/hbo-pop.png" group-title="Filmes & Séries",HBO POP
 http://cdnrede.com/live/ardenghix/991144858/5073.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TY0wBXFP/fx.png" group-title="Filmes & Séries",FX
-http://cdnrede.com/live/ardenghix/991144858/5080.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NfTNWHC/warner-tv.png" group-title="Filmes & Séries",Warner TV
+http://cdnrede.com/live/ardenghix/991144858/5002.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHPKg64J/cinemax.png" group-title="Filmes & Séries",Cinemax
 http://cdnrede.com/live/ardenghix/991144858/5090.m3u8
