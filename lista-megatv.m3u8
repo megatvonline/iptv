@@ -60,6 +60,9 @@ http://cdnrede.com/live/ardenghix/991144858/5073.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NfTNWHC/warner-tv.png" group-title="Filmes & Séries",Warner TV
 http://cdnrede.com/live/ardenghix/991144858/5102.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCbbvrQX/studio-universal.png" group-title="Filmes & Séries",Stúdio Universal
+http://cdnrede.com/live/ardenghix/991144858/5063.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15m8s4y1/sony-channel.png" group-title="Filmes & Séries",Sony Channel
 http://cdnrede.com/live/ardenghix/991144858/5092.m3u8
 
