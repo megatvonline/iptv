@@ -57,6 +57,9 @@ http://cdnrede.com/live/ardenghix/991144858/5078.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Znq19DtF/hbo-pop.png" group-title="Filmes & Séries",HBO POP
 http://cdnrede.com/live/ardenghix/991144858/5073.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXrcwWQv/universal-tv.png" group-title="Filmes & Séries",Universal TV
+http://cdnrede.com/live/ardenghix/991144858/5052.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NfTNWHC/warner-tv.png" group-title="Filmes & Séries",Warner TV
 http://cdnrede.com/live/ardenghix/991144858/5102.m3u8
 
