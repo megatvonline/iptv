@@ -69,6 +69,9 @@ http://cdnrede.com/live/ardenghix/991144858/5090.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwPvZ5hn/paramoun-network.png" group-title="Filmes & Séries",Paramount Network
 http://cdnrede.com/live/ardenghix/991144858/5069.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1vYrHQk/canal-brasil.png" group-title="Filmes & Séries",Canal Brasil
+http://cdnrede.com/live/ardenghix/991144858/5094.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Yq2J9cnZ/axn.png" group-title="Filmes & Séries",AXN
 http://cdnrede.com/live/ardenghix/991144858/5096.m3u8
 
