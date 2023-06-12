@@ -1,10 +1,16 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWPQ881K/cartoon-network.png" group-title="Infantil",Cartoon Network
+http://cdnrede.com/live/ardenghix/991144858/5171.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhGdtmj4/gloob.png" group-title="Infantil",Gloob
 http://cdnrede.com/live/ardenghix/991144858/5163.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52YpkZhN/gloobinho.png" group-title="Infantil",Gloobinho
 http://cdnrede.com/live/ardenghix/991144858/5162.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6C0X8x6/discovery-kids.png" group-title="Infantil",Discovery Kids
+http://cdnrede.com/live/ardenghix/991144858/5169.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8103mrF/nick.png" group-title="Infantil",Nickelodeon
 http://cdnrede.com/live/ardenghix/991144858/5155.m3u8
