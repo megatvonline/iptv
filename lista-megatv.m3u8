@@ -21,5 +21,14 @@ http://cdnrede.com/live/ardenghix/991144858/5157.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwFxkGnd/discovery-channel.png" group-title="Infantil",Discovery Channel
 http://cdnrede.com/live/ardenghix/991144858/5001.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pf906f87/discovery-world.png" group-title="Infantil",Discovery World
+http://cdnrede.com/live/ardenghix/991144858/4989.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9yzC9HB/discovery-turbo.png" group-title="Infantil",Discovery Turbo
+http://cdnrede.com/live/ardenghix/991144858/4991.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgFNtwmc/discovery-home-health.png" group-title="Infantil",Discovery Home & Health
+http://cdnrede.com/live/ardenghix/991144858/4997.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Twj57hKV/animal-planet.png" group-title="Infantil",Animal Planet
 http://cdnrede.com/live/ardenghix/991144858/5003.m3u8
