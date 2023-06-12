@@ -159,6 +159,8 @@ http://cdnrede.com/live/ardenghix/991144858/5186.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/43002mXT/cnn-brasil.png" group-title="Notícias",CNN Brasil
 http://cdnrede.com/live/ardenghix/991144858/166980.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Séries",24 Horas
+http://digitaldonate2.ddns.net:8085/Chaves/tracks-v1a1/mono.m3u8
 
 
 
