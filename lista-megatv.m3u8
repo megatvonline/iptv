@@ -1,5 +1,11 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y6mrThsD/axn.png" group-title="Filmes & Séries",AXN
+http://cdnrede.com/live/ardenghix/991144858/5096.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtwVmqrC/aie.png" group-title="Filmes & Séries",A&E
+http://cdnrede.com/live/ardenghix/991144858/5100.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWPQ881K/cartoon-network.png" group-title="Infantil",Cartoon Network
 http://cdnrede.com/live/ardenghix/991144858/5171.m3u8
 
