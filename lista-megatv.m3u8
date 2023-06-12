@@ -17,3 +17,9 @@ http://cdnrede.com/live/ardenghix/991144858/5155.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrrqmSTr/nick-jr.png" group-title="Infantil",Nick Jr.
 http://cdnrede.com/live/ardenghix/991144858/5157.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwFxkGnd/discovery-channel.png" group-title="Infantil",Discovery Channel
+http://cdnrede.com/live/ardenghix/991144858/5001.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Twj57hKV/animal-planet.png" group-title="Infantil",Animal Planet
+http://cdnrede.com/live/ardenghix/991144858/5003.m3u8
