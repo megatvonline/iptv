@@ -49,7 +49,7 @@ http://cdnrede.com/live/ardenghix/991144858/5086.m3u8
 http://cdnrede.com/live/ardenghix/991144858/5069.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C646F8N/tbs-brasil.png" group-title="Filmes & Séries",TBS Brasil
-http://cdnrede.com/live/ardenghix/991144858/5060.m3u8
+http://cdnrede.com/live/ardenghix/991144858/5059.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2RCD7d9/canal-brasil.png" group-title="Filmes & Séries",Canal Brasil
 http://cdnrede.com/live/ardenghix/991144858/5094.m3u8
@@ -110,6 +110,9 @@ http://cdnrede.com/live/ardenghix/991144858/4991.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgFNtwmc/discovery-home-health.png" group-title="Documentários",Discovery Home & Health
 http://cdnrede.com/live/ardenghix/991144858/4997.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4p5PhPC/national-geographic-channel.png" group-title="Documentários",National Geo Ch
+http://cdnrede.com/live/ardenghix/991144858/4981.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Twj57hKV/animal-planet.png" group-title="Documentários",Animal Planet
 http://cdnrede.com/live/ardenghix/991144858/5003.m3u8
