@@ -51,6 +51,9 @@ http://cdnrede.com/live/ardenghix/991144858/5157.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwFxkGnd/discovery-channel.png" group-title="Infantil",Discovery Channel
 http://cdnrede.com/live/ardenghix/991144858/5001.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhBqKFsC/discovery-theater.png" group-title="Infantil",Discovery Theater
+http://cdnrede.com/live/ardenghix/991144858/4993.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pf906f87/discovery-world.png" group-title="Infantil",Discovery World
 http://cdnrede.com/live/ardenghix/991144858/4989.m3u8
 
