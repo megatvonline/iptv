@@ -39,17 +39,23 @@ http://cdnrede.com/live/ardenghix/991144858/5162.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2VcFHTj/cartoonito.png" group-title="Infantil",Cartoonito
 http://cdnrede.com/live/ardenghix/991144858/5180.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxRpK5qC/tooncast.png" group-title="Infantil",Tooncast
+http://cdnrede.com/live/ardenghix/991144858/5154.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6C0X8x6/discovery-kids.png" group-title="Infantil",Discovery Kids
 http://cdnrede.com/live/ardenghix/991144858/5169.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vH8spC65/disney-channel.png" group-title="Infantil",Disney Channel
-http://cdnrede.com/live/ardenghix/991144858/5179.m3u8
+http://cdnrede.com/live/ardenghix/991144858/5167.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8103mrF/nick.png" group-title="Infantil",Nickelodeon
 http://cdnrede.com/live/ardenghix/991144858/5155.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrrqmSTr/nick-jr.png" group-title="Infantil",Nick Jr.
 http://cdnrede.com/live/ardenghix/991144858/5157.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0dWFj7g/tv-ra-tim-bum.png" group-title="Infantil",TV Rá-Tim-Bum
+http://cdnrede.com/live/ardenghix/991144858/5152.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwFxkGnd/discovery-channel.png" group-title="Infantil",Discovery Channel
 http://cdnrede.com/live/ardenghix/991144858/5001.m3u8
