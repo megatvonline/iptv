@@ -21,6 +21,9 @@ http://cdnrede.com/live/ardenghix/991144858/5080.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brz4g08Q/warner-tv.png" group-title="Filmes & Séries",Warner TV
 http://cdnrede.com/live/ardenghix/991144858/5050.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2ySCHLfB/universal-tv.png" group-title="Filmes & Séries",Universal TV
+http://cdnrede.com/live/ardenghix/991144858/5052.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QC6RVB5h/space.png" group-title="Filmes & Séries",Space
 http://cdnrede.com/live/ardenghix/991144858/5065.m3u8
 
