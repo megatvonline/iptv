@@ -66,6 +66,12 @@ http://cdnrede.com/live/ardenghix/991144858/4997.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Twj57hKV/animal-planet.png" group-title="Infantil",Animal Planet
 http://cdnrede.com/live/ardenghix/991144858/5003.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bw1MwdRt/globo-news.png" group-title="Notícias",Globo News
+http://cdnrede.com/live/ardenghix/991144858/5184.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0DcrLnQ/band-news.png" group-title="Notícias",Band News
+http://cdnrede.com/live/ardenghix/991144858/5186.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcPXqktH/chaves.png" group-title="Séries 24 Horas",Chaves
 http://digitaldonate2.ddns.net:8085/Chaves/tracks-v1a1/mono.m3u8
 
