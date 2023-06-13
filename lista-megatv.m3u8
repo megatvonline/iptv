@@ -1,6 +1,9 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pqw6c1sv/megapix.png" group-title="Filmes & Séries", Megapix
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5Q6JJ4R/multishow.png" group-title="Filmes & Séries",Multishow
+http://cdnrede.com/live/ardenghix/991144858/50249.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pqw6c1sv/megapix.png" group-title="Filmes & Séries",Megapix
 http://cdnrede.com/live/ardenghix/991144858/5071.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9MtKzyfw/fx.png" group-title="Filmes & Séries",FX
