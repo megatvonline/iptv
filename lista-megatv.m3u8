@@ -60,5 +60,8 @@ http://cdnrede.com/live/ardenghix/991144858/4997.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Twj57hKV/animal-planet.png" group-title="Infantil",Animal Planet
 http://cdnrede.com/live/ardenghix/991144858/5003.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2CnkKPd/chaves.png" group-title="Séries 24 Horas",Chaves
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KcPXqktH/chaves.png" group-title="Séries 24 Horas",Chaves
 http://digitaldonate2.ddns.net:8085/Chaves/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNxB217S/chapolin-colorado.png" group-title="Séries 24 Horas",Chapolin Colorado
+http://digitaldonate2.ddns.net:8085/Chapolin/tracks-v1a1/mono.m3u8
