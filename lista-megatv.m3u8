@@ -1,10 +1,16 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pqw6c1sv/megapix.png" group-title="Filmes & Séries", Megapix
+http://cdnrede.com/live/ardenghix/991144858/5071.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9MtKzyfw/fx.png" group-title="Filmes & Séries",FX
 http://cdnrede.com/live/ardenghix/991144858/5080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Lsmz2PGb/cinemax.png" group-title="Filmes & Séries",Cinemax
 http://cdnrede.com/live/ardenghix/991144858/5090.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fT8g0wfy/paramount-network.png" group-title="Filmes & Séries",Paramont Network
+http://cdnrede.com/live/ardenghix/991144858/5069.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6mrThsD/axn.png" group-title="Filmes & Séries",AXN
 http://cdnrede.com/live/ardenghix/991144858/5096.m3u8
