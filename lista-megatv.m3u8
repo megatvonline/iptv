@@ -30,6 +30,9 @@ http://cdnrede.com/live/ardenghix/991144858/5094.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6mrThsD/axn.png" group-title="Filmes & Séries",AXN
 http://cdnrede.com/live/ardenghix/991144858/5096.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fh2Th6w/amc.png" group-title="Filmes & Séries",AMC
+http://cdnrede.com/live/ardenghix/991144858/5098.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtwVmqrC/aie.png" group-title="Filmes & Séries",A&E
 http://cdnrede.com/live/ardenghix/991144858/5100.m3u8
 
