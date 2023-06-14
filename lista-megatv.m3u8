@@ -42,6 +42,9 @@ http://cdnrede.com/live/ardenghix/991144858/5147.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WbyH5wcB/hbo-plus.png" group-title="Filmes & Séries",HBO Plus
 http://cdnrede.com/live/ardenghix/991144858/5141.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kX4fk1Qj/hbo-family.png" group-title="Filmes & Séries",HBO Family
+http://cdnrede.com/live/ardenghix/991144858/5145.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Tw2c0zyR/hbo-xtreme.png" group-title="Filmes & Séries",HBO Xtreme
 http://cdnrede.com/live/ardenghix/991144858/5075.m3u8
 
