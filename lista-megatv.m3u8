@@ -141,6 +141,9 @@ https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1201831
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QxPHP81C/fronteira-kids.png" group-title="Infantil",Fronteira Kids
 https://srv5.zcast.com.br/fronteirakids/fronteirakids/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDsw9xwZ/conectv.png" group-title="Infantil",Conectv
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwFxkGnd/discovery-channel.png" group-title="Documentários",Discovery Channel
 http://cdnrede.com/live/ardenghix/991144858/5001.m3u8
 
