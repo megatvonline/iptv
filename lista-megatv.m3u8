@@ -75,6 +75,9 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cqtr9Cy/urban-series.png" group-title="Filmes & Séries",Urban Séries
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkhvfwRx/urban-retro.png" group-title="Filmes & Séries",Urban Retrô
+http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtrFRJt4/urban-tv.png" group-title="Filmes & Séries",Urban TV
 http://200.194.238.229:8383/live/urbantv/playlist.m3u8
 
@@ -155,6 +158,9 @@ http://cdnrede.com/live/ardenghix/991144858/4985.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4hfRHHD/history-2.png" group-title="Documentários",History 2
 http://cdnrede.com/live/ardenghix/991144858/4987.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKZ8YqH5/urban-docs.png" group-title="Documentários",Urban Docs
+http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bw1MwdRt/globo-news.png" group-title="Notícias",Globo News
 http://cdnrede.com/live/ardenghix/991144858/5184.m3u8
