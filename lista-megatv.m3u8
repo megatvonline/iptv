@@ -117,6 +117,15 @@ http://cdnrede.com/live/ardenghix/991144858/5152.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhjncHqb/urban-kids.png" group-title="Infantil",Urban Kids
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxZJt3Ns/toon-goggles-brasil.png" group-title="Infantil",Toon Goggles Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzncX1sm/tv-kids-mais.png" group-title="Infantil",TV Kids Mais
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1201831481.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFMbg80c/fronteira-kids.png" group-title="Infantil",Fronteira Kids
+https://srv5.zcast.com.br/fronteirakids/fronteirakids/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwFxkGnd/discovery-channel.png" group-title="Documentários",Discovery Channel
 http://cdnrede.com/live/ardenghix/991144858/5001.m3u8
 
