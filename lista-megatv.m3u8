@@ -81,6 +81,9 @@ http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtrFRJt4/urban-tv.png" group-title="Filmes & Séries",Urban TV
 http://200.194.238.229:8383/live/urbantv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXhfpbTS/urban-tv.png" group-title="Filmes & Séries",Urban TV
+http://200.194.238.229:8383/live/urbantv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8nYpTHy/entretendo.png" group-title="Filmes & Séries",Entretendo
 https://cdn2.connectbr.com.br/Entretendo/tracks-v1a1/mono.m3u8
 
@@ -125,9 +128,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KzncX1sm/tv-kids-mais.png" group-title="Infantil",TV Kids Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1201831481.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFMbg80c/fronteira-kids.png" group-title="Infantil",Fronteira Kids
-https://srv5.zcast.com.br/fronteirakids/fronteirakids/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QxPHP81C/fronteira-kids.png" group-title="Infantil",Fronteira Kids
 https://srv5.zcast.com.br/fronteirakids/fronteirakids/playlist.m3u8
