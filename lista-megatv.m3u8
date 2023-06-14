@@ -66,6 +66,12 @@ http://cdnrede.com/live/ardenghix/991144858/5098.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtwVmqrC/aie.png" group-title="Filmes & Séries",A&E
 http://cdnrede.com/live/ardenghix/991144858/5100.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZK3xDR/urban-movies.png" group-title="Filmes & Séries",Urban Movies
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cqtr9Cy/urban-series.png" group-title="Filmes & Séries",Urban Séries
+http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtrFRJt4/urban-tv.png" group-title="Filmes & Séries",Urban TV
 http://200.194.238.229:8383/live/urbantv/playlist.m3u8
 
