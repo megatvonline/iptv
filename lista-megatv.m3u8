@@ -66,6 +66,9 @@ http://cdnrede.com/live/ardenghix/991144858/5098.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtwVmqrC/aie.png" group-title="Filmes & Séries",A&E
 http://cdnrede.com/live/ardenghix/991144858/5100.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtrFRJt4/urban-tv.png" group-title="Filmes & Séries",Urban TV
+http://200.194.238.229:8383/live/urbantv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8nYpTHy/entretendo.png" group-title="Filmes & Séries",Entretendo
 https://cdn2.connectbr.com.br/Entretendo/tracks-v1a1/mono.m3u8
 
@@ -101,6 +104,9 @@ http://cdnrede.com/live/ardenghix/991144858/5157.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnRd46wr/tv-ra-tim-bum.png" group-title="Infantil",TV Rá-Tim-Bum
 http://cdnrede.com/live/ardenghix/991144858/5152.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhjncHqb/urban-kids.png" group-title="Infantil",Urban Kids
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwFxkGnd/discovery-channel.png" group-title="Documentários",Discovery Channel
 http://cdnrede.com/live/ardenghix/991144858/5001.m3u8
