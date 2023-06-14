@@ -66,6 +66,9 @@ http://cdnrede.com/live/ardenghix/991144858/5098.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtwVmqrC/aie.png" group-title="Filmes & Séries",A&E
 http://cdnrede.com/live/ardenghix/991144858/5100.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sxFnh8Tj/fronteira-movies.png" group-title="Filmes & Séries",Fronteira Movies
+https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/chunklist_w2005856802.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZK3xDR/urban-movies.png" group-title="Filmes & Séries",Urban Movies
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 
