@@ -66,6 +66,9 @@ http://cdnrede.com/live/ardenghix/991144858/5098.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtwVmqrC/aie.png" group-title="Filmes & Séries",A&E
 http://cdnrede.com/live/ardenghix/991144858/5100.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3xqFGmcn/clubinho-fun.png" group-title="Filmes & Séries",Clubinho Fun
+https://cdn2.connectbr.com.br/Clubinho/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWPQ881K/cartoon-network.png" group-title="Infantil",Cartoon Network
 http://cdnrede.com/live/ardenghix/991144858/5171.m3u8
 
