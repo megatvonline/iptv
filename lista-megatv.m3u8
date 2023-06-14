@@ -18,6 +18,9 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5Q6JJ4R/multishow.png" group-title="Músicas & Variedades",Multishow
 http://cdnrede.com/live/ardenghix/991144858/5249.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1wmKsQh/tlc-discovery.png" group-title="Músicas & Variedades",TLC Discovery
+http://cdnrede.com/live/ardenghix/991144858/5241.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMb442qW/urban-travel.png" group-title="Músicas & Variedades",Urban Travel
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 
