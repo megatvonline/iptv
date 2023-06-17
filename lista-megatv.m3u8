@@ -9,6 +9,9 @@ http://cdnrede.com/live/ardenghix/991144858/5128.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrYT2Rqb/rede-brasil.png" group-title="Canais Abertos",Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1658903474.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbh7MW2k/awtv.png" group-title="Canais Abertos",AWTV
+https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W121bY3F/vintage-tv.png" group-title="Canais Abertos",Vintage TV
 https://stmv1.srvif.com/webvintage/webvintage/chunklist_w1292059944.m3u8
 
@@ -146,9 +149,6 @@ http://cdnrede.com/live/ardenghix/991144858/5163.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52YpkZhN/gloobinho.png" group-title="Infantil",Gloobinho
 http://cdnrede.com/live/ardenghix/991144858/5162.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52YpkZhN/gloobinho.png" group-title="Infantil",Gloobinho
-http://hls1.sua.tv/live/gloobinhohd/s.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2VcFHTj/cartoonito.png" group-title="Infantil",Cartoonito
 http://cdnrede.com/live/ardenghix/991144858/5180.m3u8
