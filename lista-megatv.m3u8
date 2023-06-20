@@ -313,7 +313,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934e
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRH68sKH/estacao-93-fm-jequie-ba.png" group-title="Rádios FM",Estação 93 FM Jequié-BA
-https://stm3.mestrestream.xyz:7054
+https://stm3.mestrestream.xyz:7054/stream
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RwCqM1F/95-fm-oficial.png" group-title="Rádios FM",95 FM Oficial
 https://stream01.ouveai.com.br:2020/AudioPlayer/95fmoficial
