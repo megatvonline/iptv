@@ -180,9 +180,6 @@ http://cdnrede.com/live/ardenghix/991144858/5152.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhjncHqb/urban-kids.png" group-title="Infantil",Urban Kids
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZb67Tqv/toon-goggles-brasil.png" group-title="Infantil",Toon Goggles Brasil
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KzncX1sm/tv-kids-mais.png" group-title="Infantil",TV Kids Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1201831481.m3u8
 
@@ -257,3 +254,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2R96r86/as-pistas-de-blue.png" group-title="Pluto TV Infantil",As Pistas de Blue
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50kYL8Sf/pluto-tv-jr.png" group-title="Pluto TV Infantil",Pluto TV Jr.
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v80dybQF/pluto-tv-kids.png" group-title="Pluto TV Infantil",Pluto TV Kids
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
