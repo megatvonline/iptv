@@ -231,6 +231,9 @@ http://cdnrede.com/live/ardenghix/991144858/5186.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RCNxxjh/24-horas.png" group-title="Desenhos 24 Horas",Bob Esponja
 http://digitaldonate2.ddns.net:8085/BobEsponja/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RCNxxjh/24-horas.png" group-title="Desenhos 24 Horas",Pica-Pau
+http://212.102.60.39:2200/BRX/ZC24_Horas_PicaPau/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RCNxxjh/24-horas.png" group-title="Séries 24 Horas",Chaves
 http://digitaldonate2.ddns.net:8085/Chaves/tracks-v1a1/mono.m3u8
 
