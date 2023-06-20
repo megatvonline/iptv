@@ -18,6 +18,9 @@ https://stmv1.srvif.com/webvintage/webvintage/chunklist_w1292059944.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RF24h8CQ/tela-viva-tv.png" group-title="Canais Abertos",Tela Viva TV
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w944972315.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pX5byk3q/tv-opcao.png" group-title="Canais Abertos",TV Opção
+https://stmv1.paineltv.net/wladimyr7277/wladimyr7277/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G3XRN41n/rede-utv-brasil.png" group-title="Canais Abertos",Rede UTV Brasil
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w838479703.m3u8
 
