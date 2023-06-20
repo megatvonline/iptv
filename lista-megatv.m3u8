@@ -15,6 +15,9 @@ https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W121bY3F/vintage-tv.png" group-title="Canais Abertos",Vintage TV
 https://stmv1.srvif.com/webvintage/webvintage/chunklist_w1292059944.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh73nYtF/tela-viva-tv.png" group-title="Canais Abertos",Tela Viva TV
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w944972315.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G3XRN41n/rede-utv-brasil.png" group-title="Canais Abertos",Rede UTV Brasil
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w838479703.m3u8
 
