@@ -332,3 +332,7 @@ https://player.transmissaodigital.com/proxy/7320
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFWyxgzr/radio-disney.png" group-title="Rádios FM",Rádio Disney
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1hhXy30/sound.png" group-title="Sound",Sound Forró
+https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
+
