@@ -231,6 +231,9 @@ http://cdnrede.com/live/ardenghix/991144858/5182.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0DcrLnQ/band-news.png" group-title="Notícias",Band News
 http://cdnrede.com/live/ardenghix/991144858/5186.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RCNxxjh/24-horas.png" group-title="Desenhos 24 Horas",Homem-Aranha
+http://turoisherego.xyz:2095/live/Tourobox1-9QhOW9UPah/BNIAnjxbYj/740.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcPXqktH/chaves.png" group-title="Séries 24 Horas",Chaves
 http://digitaldonate2.ddns.net:8085/Chaves/tracks-v1a1/mono.m3u8
 
