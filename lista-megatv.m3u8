@@ -75,7 +75,7 @@ http://cdnrede.com/live/ardenghix/991144858/5075.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yQhm5bm/hbo-mundi.png" group-title="Filmes & Séries",HBO Mundi
 http://cdnrede.com/live/ardenghix/991144858/5078.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrSpR9n3/hbo-pop.png" group-title="Filmes & Séries",HBO POP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrSpR9n3/hbo-pop.png" group-title="Filmes & Séries",HBO Pop
 http://cdnrede.com/live/ardenghix/991144858/5073.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brz4g08Q/warner-tv.png" group-title="Filmes & Séries",Warner TV
@@ -333,6 +333,40 @@ https://player.transmissaodigital.com/proxy/7320
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFWyxgzr/radio-disney.png" group-title="Rádios FM",Rádio Disney
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP.mp3
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1hhXy30/sound.png" group-title="Sound",Sound Forró
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh0s04Sw/sound.png" group-title="Sound",Sound Hits Anos 80
+https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh0s04Sw/sound.png" group-title="Sound",Sound Pop Anos 90
+https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh0s04Sw/sound.png" group-title="Sound",Sound Eletrônica
+https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh0s04Sw/sound.png" group-title="Sound",Sound Forró
 https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh0s04Sw/sound.png" group-title="Sound",Sound K-Pop
+https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh0s04Sw/sound.png" group-title="Sound",Sound Latina
+https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh0s04Sw/sound.png" group-title="Sound",Sound Pop
+https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh0s04Sw/sound.png" group-title="Sound",Sound Pop Nacional
+https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh0s04Sw/sound.png" group-title="Sound",Sound Reggae
+https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh0s04Sw/sound.png" group-title="Sound",Sound Samba & Pagode
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh0s04Sw/sound.png" group-title="Sound",Sound Sertanejo Hits
+https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh0s04Sw/sound.png" group-title="Sound",Sound Sertanejo Romântico
+https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
+
 
