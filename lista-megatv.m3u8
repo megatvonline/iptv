@@ -237,6 +237,15 @@ http://cdnrede.com/live/ardenghix/991144858/4987.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FKZ8YqH5/urban-docs.png" group-title="Documentários",Urban Docs
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26BM13W4/sportv.png" group-title="Esportes",SporTV
+http://cdnrede.com/live/ardenghix/991144858/5012.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SR6PG5DR/sportv-2.png" group-title="Esportes",SporTV 2
+http://cdnrede.com/live/ardenghix/991144858/5015.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PG9Cpz6/sportv-3.png" group-title="Esportes",SporTV 3
+http://cdnrede.com/live/ardenghix/991144858/5013.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bw1MwdRt/globo-news.png" group-title="Notícias",Globo News
 http://cdnrede.com/live/ardenghix/991144858/5184.m3u8
 
