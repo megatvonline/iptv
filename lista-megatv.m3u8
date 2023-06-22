@@ -66,11 +66,17 @@ http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VsgHWbhF/star-channel.png" group-title="Filmes & Séries",Star Channel
 http://cdnrede.com/live/ardenghix/991144858/5088.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsgHWbhF/star-channel.png" group-title="Filmes & Séries",Star Channel
+https://ipzeruela.shop/Star-Filmes/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pqw6c1sv/megapix.png" group-title="Filmes & Séries",Megapix
 http://cdnrede.com/live/ardenghix/991144858/5071.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9MtKzyfw/fx.png" group-title="Filmes & Séries",FX
 http://cdnrede.com/live/ardenghix/991144858/5080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MtKzyfw/fx.png" group-title="Filmes & Séries",FX
+https://ipzeruela.shop/FX/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mr1FWMk1/hbo.png" group-title="Filmes & Séries",HBO 
 http://cdnrede.com/live/ardenghix/991144858/5144.m3u8
@@ -108,6 +114,9 @@ https://ipzeruela.shop/SPACE/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=7
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj5Hw1Qt/studio-universal.png" group-title="Filmes & Séries",Stúdio Universal
 http://cdnrede.com/live/ardenghix/991144858/5063.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj5Hw1Qt/studio-universal.png" group-title="Filmes & Séries",Stúdio Universal
+https://ipzeruela.shop/STUDIO-UNIVERSAL/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYQw2qsp/sony-channel.png" group-title="Filmes & Séries",Sony Channel
 http://cdnrede.com/live/ardenghix/991144858/5092.m3u8
 
@@ -126,11 +135,20 @@ http://cdnrede.com/live/ardenghix/991144858/5056.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QNF1T8vm/tnt-series.png" group-title="Filmes & Séries",TNT Séries
 http://cdnrede.com/live/ardenghix/991144858/5054.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNF1T8vm/tnt-series.png" group-title="Filmes & Séries",TNT Séries
+https://ipzeruela.shop/TNT-SERIES/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76yqwScf/cine-canal.png" group-title="Filmes & Séries",Cine Canal
 http://cdnrede.com/live/ardenghix/991144858/5086.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76yqwScf/cine-canal.png" group-title="Filmes & Séries",Cine Canal
+https://ipzeruela.shop/CINE-CANAL/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT8g0wfy/paramount-network.png" group-title="Filmes & Séries",Paramont Network
 http://cdnrede.com/live/ardenghix/991144858/5069.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fT8g0wfy/paramount-network.png" group-title="Filmes & Séries",Paramont Network
+https://ipzeruela.shop/Paramount-Filmes/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C646F8N/tbs-brasil.png" group-title="Filmes & Séries",TBS Brasil
 http://cdnrede.com/live/ardenghix/991144858/5059.m3u8
@@ -168,8 +186,14 @@ http://cdnrede.com/live/ardenghix/991144858/5067.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9fh2Th6w/amc.png" group-title="Filmes & Séries",AMC
 http://cdnrede.com/live/ardenghix/991144858/5098.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fh2Th6w/amc.png" group-title="Filmes & Séries",AMC
+https://ipzeruela.shop/AMC/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtwVmqrC/aie.png" group-title="Filmes & Séries",A&E
 http://cdnrede.com/live/ardenghix/991144858/5100.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtwVmqrC/aie.png" group-title="Filmes & Séries",A&E
+https://ipzeruela.shop/AE/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncqC6YL9/fronteira-movies.png" group-title="Filmes & Séries",Fronteira Movies
 https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/chunklist_w2005856802.m3u8
