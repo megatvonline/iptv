@@ -264,6 +264,9 @@ http://cdnrede.com/live/ardenghix/991144858/5022.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQkj9Vgt/espn-extra.png" group-title="Esportes",ESPN Extra
 http://cdnrede.com/live/ardenghix/991144858/5031.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPYhV5Qc/fox-sports-2.png" group-title="Esportes",FOX Sports 2
+http://cdnrede.com/live/ardenghix/991144858/5020.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmWgvt5T/band-sports.png" group-title="Esportes",Band Sports
 http://cdnrede.com/live/ardenghix/991144858/5037.m3u8
 
