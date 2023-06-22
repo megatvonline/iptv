@@ -324,6 +324,9 @@ http://cdnrede.com/live/ardenghix/991144858/5163.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhGdtmj4/gloob.png" group-title="Infantil",Gloob
 https://ipzeruela.shop/Gloob/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhGdtmj4/gloob.png" group-title="Infantil",Gloob
+https://superblazer.com.br.global.prod.fastly.net/live/gloob/play2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52YpkZhN/gloobinho.png" group-title="Infantil",Gloobinho
 http://cdnrede.com/live/ardenghix/991144858/5162.m3u8
 
