@@ -180,17 +180,32 @@ http://cdnrede.com/live/ardenghix/991144858/5094.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4NDFNS89/telecine-premium.png" group-title="Filmes & Séries",Telecine Premium
 http://cdnrede.com/live/ardenghix/991144858/5219.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4NDFNS89/telecine-premium.png" group-title="Filmes & Séries",Telecine Premium
+https://ipzeruela.shop/Telecine-Premium/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XT9HgqS/telecine-pipoca.png" group-title="Filmes & Séries",Telecine Pipoca
 http://cdnrede.com/live/ardenghix/991144858/5221.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XT9HgqS/telecine-pipoca.png" group-title="Filmes & Séries",Telecine Pipoca
+https://ipzeruela.shop/Telecine-Pipoca/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRz3wm65/telecine-action.png" group-title="Filmes & Séries",Telecine Action
 http://cdnrede.com/live/ardenghix/991144858/5227.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRz3wm65/telecine-action.png" group-title="Filmes & Séries",Telecine Action
+https://ipzeruela.shop/Telecine-Action/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15wb6SVH/telecine-touch.png" group-title="Filmes & Séries",Telecine Touch
 http://cdnrede.com/live/ardenghix/991144858/5217.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15wb6SVH/telecine-touch.png" group-title="Filmes & Séries",Telecine Touch
+https://ipzeruela.shop/Telecine-Touch/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brGqx5fh/telecine-fun.png" group-title="Filmes & Séries",Telecine Fun
 http://cdnrede.com/live/ardenghix/991144858/5223.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brGqx5fh/telecine-fun.png" group-title="Filmes & Séries",Telecine Fun
+https://ipzeruela.shop/Telecine-Fun/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1R59fYD/telecine-cult.png" group-title="Filmes & Séries",Telecine Cult
 http://cdnrede.com/live/ardenghix/991144858/5225.m3u8
@@ -386,6 +401,9 @@ http://cdnrede.com/live/ardenghix/991144858/5020.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmWgvt5T/band-sports.png" group-title="Esportes",Band Sports
 http://cdnrede.com/live/ardenghix/991144858/5037.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hs0hWyMb/combate.png" group-title="Esportes",Combate
+http://cdnrede.com/live/ardenghix/991144858/5214.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kz8TvggY/premiere-clubes.png" group-title="Esportes",Premiere Clubes
 http://cdnrede.com/live/ardenghix/991144858/5191.m3u8
