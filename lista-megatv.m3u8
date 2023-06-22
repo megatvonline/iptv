@@ -27,8 +27,17 @@ http://cdnrede.com/live/ardenghix/991144858/4961.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrYT2Rqb/rede-brasil.png" group-title="Canais Abertos",Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1658903474.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/44p5pH5y/tv-brasil.png" group-title="Canais Abertos",TV Brasil
+http://cdnrede.com/live/ardenghix/991144858/4950.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/44p5pH5y/tv-brasil.png" group-title="Canais Abertos",TV Brasil
+https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsQP86d7/futura.png" group-title="Canais Abertos",Futura
 http://cdnrede.com/live/ardenghix/991144858/4967.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsQP86d7/futura.png" group-title="Canais Abertos",Futura
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1509321405.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbh7MW2k/awtv.png" group-title="Canais Abertos",AWTV
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
