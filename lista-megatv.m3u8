@@ -162,7 +162,7 @@ http://cdnrede.com/live/ardenghix/991144858/5080.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9MtKzyfw/fx.png" group-title="Filmes & Séries",FX
 https://ipzeruela.shop/FX/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MtKzyfw/fx.png" group-title="Filmes & Séries",
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MtKzyfw/fx.png" group-title="Filmes & Séries",FX
 http://superblazer.com.br.global.prod.fastly.net/live/fx/play2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mr1FWMk1/hbo.png" group-title="Filmes & Séries",HBO 
