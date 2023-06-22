@@ -6,6 +6,9 @@ https://ipzeruela.shop/GLOBO-RJ/tracks-v1a1/mono.m3u8?remote=177.70.243.116&toke
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8kFrQGZW/rede-globo.png" group-title="Canais Abertos",Globo SP
 http://cdnrede.com/live/ardenghix/991144858/5116.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kFrQGZW/rede-globo.png" group-title="Canais Abertos",Globo SP
+http://superblazer.com.br.global.prod.fastly.net/live/globo/play2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8kFrQGZW/rede-globo.png" group-title="Canais Abertos",Globo Bahia
 https://ipzeruela.shop/GLOBO-BAHIA/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
 
