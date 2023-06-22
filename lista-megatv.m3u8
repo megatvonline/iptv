@@ -171,6 +171,9 @@ https://cdn2.connectbr.com.br/Clubinho/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWPQ881K/cartoon-network.png" group-title="Infantil",Cartoon Network
 http://cdnrede.com/live/ardenghix/991144858/5171.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWPQ881K/cartoon-network.png" group-title="Infantil",Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[B][COLOR white]CARTOON NETWORK[/COLOR][/B]&amp;url=https://ipzeruela.shop/Cartoon/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhGdtmj4/gloob.png" group-title="Infantil",Gloob
 http://cdnrede.com/live/ardenghix/991144858/5163.m3u8
 
