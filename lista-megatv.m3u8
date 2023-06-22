@@ -450,6 +450,9 @@ http://cdnrede.com/live/ardenghix/991144858/5182.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0DcrLnQ/band-news.png" group-title="Notícias",Band News
 http://cdnrede.com/live/ardenghix/991144858/5186.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGthS7cS/cnn-brasil.png" group-title="Notícias",CNN Brasil
+http://cdnrede.com/live/ardenghix/991144858/166980.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RCNxxjh/24-horas.png" group-title="Desenhos 24 Horas",A Pantera Cor-de-Rosa
 http://cdnrede.com/live/ardenghix/991144858/252432.m3u8
 
