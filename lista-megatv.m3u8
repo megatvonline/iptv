@@ -39,6 +39,9 @@ http://cdnrede.com/live/ardenghix/991144858/5257.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SmKmhDW/mtv.png" group-title="Músicas & Variedades",MTV
 http://cdnrede.com/live/ardenghix/991144858/5251.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L52QMQhG/e-entertainment-television.png" group-title="Músicas & Variedades",E! Entertainment Television
+http://cdnrede.com/live/ardenghix/991144858/5263.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4Pw06g0/lifetime.png" group-title="Músicas & Variedades",Lifetime
 http://cdnrede.com/live/ardenghix/991144858/5255.m3u8
 
@@ -305,9 +308,6 @@ https://ipzeruela.shop/Discorevy-Turbo/tracks-v1a1/mono.m3u8?remote=177.70.243.1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgFNtwmc/discovery-home-health.png" group-title="Documentários",Discovery Home & Health
 http://cdnrede.com/live/ardenghix/991144858/4997.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgFNtwmc/discovery-home-health.png" group-title="Documentários",Discovery Home & Health
-https://ipzeruela.shop/Discorevy-Theater/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c17DTKws/investigacao-discovery.png" group-title="Documentários",Investigação Discovery
 http://cdnrede.com/live/ardenghix/991144858/4983.m3u8
