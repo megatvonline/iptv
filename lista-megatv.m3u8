@@ -19,7 +19,7 @@ https://ipzeruela.shop/GLOBO-NORDESTE/tracks-v1a1/mono.m3u8?remote=177.70.243.11
 http://cdnrede.com/live/ardenghix/991144858/4969.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dzg8g5RB/rede-tv.png" group-title="Canais Abertos",Rede TV!
-http://cdnrede.com/live/ardenghix/991144858/4960.m3u8
+http://cdnrede.com/live/ardenghix/991144858/4959.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrYT2Rqb/rede-brasil.png" group-title="Canais Abertos",Rede Brasil
 http://cdnrede.com/live/ardenghix/991144858/4961.m3u8
@@ -38,6 +38,9 @@ http://cdnrede.com/live/ardenghix/991144858/4967.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsQP86d7/futura.png" group-title="Canais Abertos",Futura
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1509321405.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RMnqDTy/tv-escola.png" group-title="Canais Abertos",TV Escola
+http://cdnrede.com/live/ardenghix/991144858/4948.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbh7MW2k/awtv.png" group-title="Canais Abertos",AWTV
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
