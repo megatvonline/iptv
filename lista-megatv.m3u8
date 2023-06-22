@@ -58,7 +58,7 @@ http://cdnrede.com/live/ardenghix/991144858/5241.m3u8
 http://cdnrede.com/live/ardenghix/991144858/5267.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2d3ZrJR/arte-1.png" group-title="Músicas & Variedades",Arte 1
-http://cdnrede.com/live/ardenghix/991144858/5274.m3u8
+http://cdnrede.com/live/ardenghix/991144858/5273.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0N3Qn7MQ/music-box-brazil.png" group-title="Músicas & Variedades",Music Box Brazil
 http://cdnrede.com/live/ardenghix/991144858/5247.m3u8
@@ -281,6 +281,12 @@ https://ipzeruela.shop/Nick-Jr/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnRd46wr/tv-ra-tim-bum.png" group-title="Infantil",TV Rá-Tim-Bum
 http://cdnrede.com/live/ardenghix/991144858/5152.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfgZqWQc/baby-tv.png" group-title="Infantil",Baby TV
+http://cdnrede.com/live/ardenghix/991144858/5173.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfgZqWQc/baby-tv.png" group-title="Infantil",Baby TV
+https://ipzeruela.shop/BABY-TV/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhjncHqb/urban-kids.png" group-title="Infantil",Urban Kids
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
