@@ -246,6 +246,24 @@ http://cdnrede.com/live/ardenghix/991144858/5015.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PG9Cpz6/sportv-3.png" group-title="Esportes",SporTV 3
 http://cdnrede.com/live/ardenghix/991144858/5013.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbjydTh0/espn.png" group-title="Esportes",ESPN
+http://cdnrede.com/live/ardenghix/991144858/5033.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M02fWX2/espn-2.png" group-title="Esportes",ESPN 2
+http://cdnrede.com/live/ardenghix/991144858/5030.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8sQgwMRk/espn-3.png" group-title="Esportes",ESPN 3
+http://cdnrede.com/live/ardenghix/991144858/5035.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn3Xn1rG/espn-4.png" group-title="Esportes",ESPN 4
+http://cdnrede.com/live/ardenghix/991144858/5022.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQkj9Vgt/espn-extra.png" group-title="Esportes",ESPN Extra
+http://cdnrede.com/live/ardenghix/991144858/5031.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmWgvt5T/band-sports.png" group-title="Esportes",Band Sports
+http://cdnrede.com/live/ardenghix/991144858/5037.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bw1MwdRt/globo-news.png" group-title="Notícias",Globo News
 http://cdnrede.com/live/ardenghix/991144858/5184.m3u8
 
