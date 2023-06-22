@@ -213,8 +213,14 @@ https://ipzeruela.shop/HBO-POP/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brz4g08Q/warner-tv.png" group-title="Filmes & Séries",Warner TV
 http://cdnrede.com/live/ardenghix/991144858/5050.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brz4g08Q/warner-tv.png" group-title="Filmes & Séries",Warner TV
+http://superblazer.com.br.global.prod.fastly.net/live/warnerchannel/play2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2ySCHLfB/universal-tv.png" group-title="Filmes & Séries",Universal TV
 http://cdnrede.com/live/ardenghix/991144858/5052.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2ySCHLfB/universal-tv.png" group-title="Filmes & Séries",Universal TV
+http://superblazer.com.br.global.prod.fastly.net/live/universalchannel/play2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QC6RVB5h/space.png" group-title="Filmes & Séries",Space
 http://cdnrede.com/live/ardenghix/991144858/5065.m3u8
@@ -298,7 +304,7 @@ http://cdnrede.com/live/ardenghix/991144858/5227.m3u8
 https://ipzeruela.shop/Telecine-Action/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRz3wm65/telecine-action.png" group-title="Filmes & Séries",Telecine Action
-http://superblazer.com.br.global.prod.fastly.net/live/action/play2.m3u8
+http://superblazer.com.br.global.prod.fastly.net/live/telecineaction/play2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15wb6SVH/telecine-touch.png" group-title="Filmes & Séries",Telecine Touch
 http://cdnrede.com/live/ardenghix/991144858/5217.m3u8
@@ -320,6 +326,9 @@ http://cdnrede.com/live/ardenghix/991144858/5096.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6mrThsD/axn.png" group-title="Filmes & Séries",AXN
 https://ipzeruela.shop/AXN/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y6mrThsD/axn.png" group-title="Filmes & Séries",AXN
+http://superblazer.com.br.global.prod.fastly.net/live/axn/play2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/05Wkzr9z/syfy.png" group-title="Filmes & Séries",Syfy
 http://cdnrede.com/live/ardenghix/991144858/5067.m3u8
