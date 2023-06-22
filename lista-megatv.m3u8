@@ -102,14 +102,23 @@ http://cdnrede.com/live/ardenghix/991144858/5052.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QC6RVB5h/space.png" group-title="Filmes & Séries",Space
 http://cdnrede.com/live/ardenghix/991144858/5065.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QC6RVB5h/space.png" group-title="Filmes & Séries",Space
+https://ipzeruela.shop/SPACE/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj5Hw1Qt/studio-universal.png" group-title="Filmes & Séries",Stúdio Universal
 http://cdnrede.com/live/ardenghix/991144858/5063.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYQw2qsp/sony-channel.png" group-title="Filmes & Séries",Sony Channel
 http://cdnrede.com/live/ardenghix/991144858/5092.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYQw2qsp/sony-channel.png" group-title="Filmes & Séries",Sony Channel
+https://ipzeruela.shop/SONY/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Lsmz2PGb/cinemax.png" group-title="Filmes & Séries",Cinemax
 http://cdnrede.com/live/ardenghix/991144858/5090.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Lsmz2PGb/cinemax.png" group-title="Filmes & Séries",Cinemax
+https://ipzeruela.shop/CINEMAX/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PNZ8szw/tnt.png" group-title="Filmes & Séries",TNT
 http://cdnrede.com/live/ardenghix/991144858/5056.m3u8
@@ -149,6 +158,9 @@ http://cdnrede.com/live/ardenghix/991144858/5225.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6mrThsD/axn.png" group-title="Filmes & Séries",AXN
 http://cdnrede.com/live/ardenghix/991144858/5096.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y6mrThsD/axn.png" group-title="Filmes & Séries",AXN
+https://ipzeruela.shop/AXN/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/05Wkzr9z/syfy.png" group-title="Filmes & Séries",Syfy
 http://cdnrede.com/live/ardenghix/991144858/5067.m3u8
