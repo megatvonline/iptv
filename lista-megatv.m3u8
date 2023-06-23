@@ -174,14 +174,8 @@ http://cdnrede.com/live/ardenghix/991144858/5094.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4NDFNS89/telecine-premium.png" group-title="Filmes & Séries",Telecine Premium
 http://cdnrede.com/live/ardenghix/991144858/5219.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4NDFNS89/telecine-premium.png" group-title="Filmes & Séries",Telecine Premium
-http://superblazer.com.br.global.prod.fastly.net/live/telecinepremium/play2.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XT9HgqS/telecine-pipoca.png" group-title="Filmes & Séries",Telecine Pipoca
 http://cdnrede.com/live/ardenghix/991144858/5221.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XT9HgqS/telecine-pipoca.png" group-title="Filmes & Séries",Telecine Pipoca
-http://superblazer.com.br.global.prod.fastly.net/live/telecinepipoca/play2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRz3wm65/telecine-action.png" group-title="Filmes & Séries",Telecine Action
 http://cdnrede.com/live/ardenghix/991144858/5227.m3u8
