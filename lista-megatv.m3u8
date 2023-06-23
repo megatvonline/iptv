@@ -1,43 +1,16 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kFrQGZW/rede-globo.png" group-title="Canais Abertos",Globo RJ
-https://ipzeruela.shop/GLOBO-RJ/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8kFrQGZW/rede-globo.png" group-title="Canais Abertos",Globo SP
 http://cdnrede.com/live/ardenghix/991144858/5116.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kFrQGZW/rede-globo.png" group-title="Canais Abertos",Globo Bahia
-https://ipzeruela.shop/GLOBO-BAHIA/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8kFrQGZW/rede-globo.png" group-title="Canais Abertos",Globo Minas
 http://cdnrede.com/live/ardenghix/991144858/5128.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kFrQGZW/rede-globo.png" group-title="Canais Abertos",Globo Nordeste
-https://ipzeruela.shop/GLOBO-NORDESTE/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kFrQGZW/rede-globo.png" group-title="Canais Abertos",Globo Brasília
-https://ipzeruela.shop/Globo-Brasilia/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hkgz3qHQ/sbt.png" group-title="Canais Abertos",SBT
 http://cdnrede.com/live/ardenghix/991144858/203015.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fst0WC7x/band.png" group-title="Canais Abertos",Band RJ
-http://superblazer.com.br.global.prod.fastly.net/live/band/play2.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fst0WC7x/band.png" group-title="Canais Abertos",Band SP
 http://cdnrede.com/live/ardenghix/991144858/4969.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrcqG2D6/record-tv.png" group-title="Canais Abertos",Record TV RJ
-https://ipzeruela.shop/RecordTV-RJ/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrcqG2D6/record-tv.png" group-title="Canais Abertos",Record TV SP
-http://superblazer.com.br.global.prod.fastly.net/live/record/play2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrcqG2D6/record-tv.png" group-title="Canais Abertos",Record TV Minas
-https://ipzeruela.shop/RecordTV-Minas/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrcqG2D6/record-tv.png" group-title="Canais Abertos",Record TV Brasília
-https://ipzeruela.shop/RecordTV-Brasilia/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dzg8g5RB/rede-tv.png" group-title="Canais Abertos",Rede TV!
 http://cdnrede.com/live/ardenghix/991144858/4959.m3u8
@@ -48,14 +21,8 @@ http://cdnrede.com/live/ardenghix/991144858/4961.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/44p5pH5y/tv-brasil.png" group-title="Canais Abertos",TV Brasil
 http://cdnrede.com/live/ardenghix/991144858/4950.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/44p5pH5y/tv-brasil.png" group-title="Canais Abertos",TV Brasil
-https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsQP86d7/futura.png" group-title="Canais Abertos",Futura
 http://cdnrede.com/live/ardenghix/991144858/4967.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsQP86d7/futura.png" group-title="Canais Abertos",Futura
-https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1509321405.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0564FCsN/tv-escola.png" group-title="Canais Abertos",TV Escola
 http://cdnrede.com/live/ardenghix/991144858/4948.m3u8
@@ -176,9 +143,6 @@ http://cdnrede.com/live/ardenghix/991144858/5052.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QC6RVB5h/space.png" group-title="Filmes & Séries",Space
 http://cdnrede.com/live/ardenghix/991144858/5065.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QC6RVB5h/space.png" group-title="Filmes & Séries",Space
-http://superblazer.com.br.global.prod.fastly.net/live/space/play2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj5Hw1Qt/studio-universal.png" group-title="Filmes & Séries",Stúdio Universal
 http://cdnrede.com/live/ardenghix/991144858/5063.m3u8
