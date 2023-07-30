@@ -1,8 +1,5 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kFrQGZW/rede-globo.png" group-title="Canais Abertos",Glo
-http://hls1.sua.tv/live/gloobinhohd/s.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8kFrQGZW/rede-globo.png" group-title="Canais Abertos",Globo SP
 http://cdnrede.com/live/ardenghix/991144858/5116.m3u8
 
