@@ -286,13 +286,13 @@ http://cdnrede.com/live/ardenghix/991144858/4993.m3u8
 http://cdnrede.com/live/ardenghix/991144858/4989.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9yzC9HB/discovery-turbo.png" group-title="Documentários",Discovery Turbo
-http://cdnrede.com/live/ardenghix/991144858/4991.m3u8
+http://megablaze.com.global.prod.fastly.net/live/discoveryturbo/play2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgFNtwmc/discovery-home-health.png" group-title="Documentários",Discovery Home & Health
 http://cdnrede.com/live/ardenghix/991144858/4997.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c17DTKws/investigacao-discovery.png" group-title="Documentários",Investigação Discovery
-http://cdnrede.com/live/ardenghix/991144858/4983.m3u8
+http://megablaze.com.global.prod.fastly.net/live/idinvestigacaodiscovery/play2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tR3wjHDm/hgtv.png" group-title="Documentários",HGTV
 https://ipzeruela.shop/HGTV/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
@@ -304,7 +304,7 @@ http://cdnrede.com/live/ardenghix/991144858/4981.m3u8
 http://megablaze.com.global.prod.fastly.net/live/animalplanet/play2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJwSwcd8/history-channel.png" group-title="Documentários",History Channel
-http://cdnrede.com/live/ardenghix/991144858/4985.m3u8
+http://megablaze.com.global.prod.fastly.net/live/history/play2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4hfRHHD/history-2.png" group-title="Documentários",History 2
 http://cdnrede.com/live/ardenghix/991144858/4987.m3u8
