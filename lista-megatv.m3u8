@@ -250,10 +250,10 @@ http://cdnrede.com/live/ardenghix/991144858/5154.m3u8
 http://megablaze.com.global.prod.fastly.net/live/discoverykids/play2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vH8spC65/disney-channel.png" group-title="Infantil",Disney Channel
-http://cdnrede.com/live/ardenghix/991144858/5167.m3u8
+http://megablaze.com.global.prod.fastly.net/live/disneychannel/play2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8103mrF/nick.png" group-title="Infantil",Nickelodeon
-http://cdnrede.com/live/ardenghix/991144858/5155.m3u8
+http://megablaze.com.global.prod.fastly.net/live/nickelodeon/play2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrrqmSTr/nick-jr.png" group-title="Infantil",Nick Jr.
 http://cdnrede.com/live/ardenghix/991144858/5157.m3u8
@@ -274,7 +274,7 @@ https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1201831
 https://srv5.zcast.com.br/fronteirakids/fronteirakids/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwFxkGnd/discovery-channel.png" group-title="Documentários",Discovery Channel
-http://cdnrede.com/live/ardenghix/991144858/5001.m3u8
+http://megablaze.com.global.prod.fastly.net/live/discoverychannel/play2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFRYw73x/discovery-science.png" group-title="Documentários",Discovery Science
 https://ipzeruela.shop/Discorevy-Science/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=743271403ba66fd709eaf71148c6327b059eb41d-d0475771a75b9d0f53c66e1ebb3b6af9-1682177619-1682177519
