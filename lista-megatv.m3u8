@@ -121,10 +121,10 @@ http://cdnrede.com/live/ardenghix/991144858/5071.m3u8
 http://cdnrede.com/live/ardenghix/991144858/5080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mr1FWMk1/hbo.png" group-title="Filmes & Séries",HBO 
-http://cdnrede.com/live/ardenghix/991144858/5144.m3u8
+http://megablaze.com.global.prod.fastly.net/live/hbo/play2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FFy3KjZj/hbo-2.png" group-title="Filmes & Séries",HBO 2
-http://cdnrede.com/live/ardenghix/991144858/5147.m3u8
+http://megablaze.com.global.prod.fastly.net/live/hbo2/play2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WbyH5wcB/hbo-plus.png" group-title="Filmes & Séries",HBO Plus
 http://cdnrede.com/live/ardenghix/991144858/5141.m3u8
@@ -145,7 +145,7 @@ http://cdnrede.com/live/ardenghix/991144858/5078.m3u8
 http://cdnrede.com/live/ardenghix/991144858/5073.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brz4g08Q/warner-tv.png" group-title="Filmes & Séries",Warner TV
-http://cdnrede.com/live/ardenghix/991144858/5050.m3u8
+http://megablaze.com.global.prod.fastly.net/live/warnerchannel/play2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2ySCHLfB/universal-tv.png" group-title="Filmes & Séries",Universal TV
 http://cdnrede.com/live/ardenghix/991144858/5052.m3u8
@@ -163,10 +163,10 @@ http://cdnrede.com/live/ardenghix/991144858/5092.m3u8
 http://cdnrede.com/live/ardenghix/991144858/5090.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8PNZ8szw/tnt.png" group-title="Filmes & Séries",TNT
-http://cdnrede.com/live/ardenghix/991144858/5056.m3u8
+http://megablaze.com.global.prod.fastly.net/live/tnt/play2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QNF1T8vm/tnt-series.png" group-title="Filmes & Séries",TNT Séries
-http://cdnrede.com/live/ardenghix/991144858/5054.m3u8
+http://megablaze.com.global.prod.fastly.net/live/tntseries/play2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76yqwScf/cine-canal.png" group-title="Filmes & Séries",Cine Canal
 http://cdnrede.com/live/ardenghix/991144858/5086.m3u8
