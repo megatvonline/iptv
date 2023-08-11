@@ -232,7 +232,7 @@ https://cdn2.connectbr.com.br/Entretendo/tracks-v1a1/mono.m3u8
 https://cdn2.connectbr.com.br/Clubinho/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWPQ881K/cartoon-network.png" group-title="Infantil",Cartoon Network
-http://cdnrede.com/live/ardenghix/991144858/5171.m3u8
+http://megablaze.com.global.prod.fastly.net/live/cartoonnetwork/play2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhGdtmj4/gloob.png" group-title="Infantil",Gloob
 http://megablaze.com.global.prod.fastly.net/live/gloob/play2.m3u8
@@ -247,7 +247,7 @@ http://cdnrede.com/live/ardenghix/991144858/5180.m3u8
 http://cdnrede.com/live/ardenghix/991144858/5154.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65nDQ6b7/discovery-kids.png" group-title="Infantil",Discovery Kids
-http://cdnrede.com/live/ardenghix/991144858/5169.m3u8
+http://megablaze.com.global.prod.fastly.net/live/discoverykids/play2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vH8spC65/disney-channel.png" group-title="Infantil",Disney Channel
 http://cdnrede.com/live/ardenghix/991144858/5167.m3u8
@@ -301,7 +301,7 @@ https://ipzeruela.shop/HGTV/tracks-v1a1/mono.m3u8?remote=177.70.243.116&token=74
 http://cdnrede.com/live/ardenghix/991144858/4981.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Twj57hKV/animal-planet.png" group-title="Documentários",Animal Planet
-http://cdnrede.com/live/ardenghix/991144858/5003.m3u8
+http://megablaze.com.global.prod.fastly.net/live/animalplanet/play2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJwSwcd8/history-channel.png" group-title="Documentários",History Channel
 http://cdnrede.com/live/ardenghix/991144858/4985.m3u8
